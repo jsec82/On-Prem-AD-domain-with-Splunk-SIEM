@@ -1,4 +1,4 @@
-# SIEM On-Prem Lab
+# Detecion Lab
 
 ## Objective
 Building an on-premises Active Directory environment with a Splunk Security Information and Event Management (SIEM) system. 
