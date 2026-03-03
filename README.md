@@ -19,5 +19,5 @@ The Detection Lab project aimed to establish a controlled environment for simula
 ## Screenshots
 
 *Network Diagram*
-(images/On prem network diagram.drawio)
+<images/Network Diagram.PNG>
 
