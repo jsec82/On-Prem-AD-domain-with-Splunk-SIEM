@@ -16,7 +16,5 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Sysmon (system Monitor) to monitor and log system activity to the Windows event. These logs provide deep endpoint telemetry for Splunk that goes beyond standard Windows logs.
 - Splunk Universal Forwarder (UF) is a lightweight, dedicated version of Splunk Enterprise designed solely for collecting and forwarding data to Splunk indexers.
 
-## Screenshots
-<p align="center">
-  <img src="images/NetworkDiagram.png" alt="Network Diagram" width="700">
-</p>
+## Network Maping
+<a href="https://drive.google.com/file/d/1Ozf86EkMkaZELJ8N1rx1npqMcb4sVLOZ/view?usp=drive_link">Link to Network Map</a>
