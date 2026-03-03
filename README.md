@@ -17,4 +17,3 @@ The Detection Lab project aimed to establish a controlled environment for simula
 - Splunk Universal Forwarder (UF) is a lightweight, dedicated version of Splunk Enterprise designed solely for collecting and forwarding data to Splunk indexers.
 
 ## Screenshots
-![Network Diagram](images/NetworkDiagram.png)
